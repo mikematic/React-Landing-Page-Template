@@ -1,10 +1,10 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "",
+    "paragraph": ""
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Established in August 2002, Atref Advertisements, LLC is an advertising paper serving the community in the Washington, DC Metro area with advertising, information and entertainment. Atref is distributed in more than 100 places including markets, restaurants and different businesses in Northern Virginia, Washington, DC and Southern Maryland. The total circulation is 8,000 copies.",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
